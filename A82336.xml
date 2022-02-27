@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Denbigh-Castle surprized for the King by 60 Cavalliers that scaled the walls, who were all after taken prisoners, and the Castle secured. With a list of the chiefe officers. Also the last fight at Colchester, brought in a letter last night, the chief gunner slain and others, and divers prisoners taken. And the Lord Gorings proclamation published in Colchester on Friday last.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82336</idno>
+            <idno type="STC">Wing D987</idno>
+            <idno type="STC">Thomason E452_4</idno>
+            <idno type="STC">ESTC R204853</idno>
+            <idno type="EEBO-CITATION">99864311</idno>
+            <idno type="PROQUEST">99864311</idno>
+            <idno type="VID">161956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161956)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Denbigh-Castle surprized for the King by 60 Cavalliers that scaled the walls, who were all after taken prisoners, and the Castle secured. With a list of the chiefe officers. Also the last fight at Colchester, brought in a letter last night, the chief gunner slain and others, and divers prisoners taken. And the Lord Gorings proclamation published in Colchester on Friday last.</title>
+                  <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the generall satisfaction of moderate men,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colchester (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161956:1" rendition="simple:additions"/>
+            <p>DENBIGH-CASTLE ſurprized for the KING By 60 Cavalliers that ſcaled the walls, who were all after taken Priſoners, and the Caſtle ſecured.</p>
+            <p>With a LIST of the chiefe Officers.</p>
+            <p>ALSO The laſt fight at <hi>Colcheſter,</hi> brought in a Letter laſt night, The chief Gunner ſlain and others, and divers priſoners taken.</p>
+            <p>AND The Lord <hi>Gorings</hi> Proclamation pub<g ref="char:EOLhyphen"/>liſhed in <hi>Colcheſter</hi> on Friday laſt.</p>
+            <p>LONDON, Printed for the generall ſatisfaction of moderate men. <hi>M DC XL VIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161956:2"/>
+            <pb n="1" facs="tcp:161956:2"/>
+            <head>A Letter from CHESTER, of the Deſigne about ſurprizing of Den<g ref="char:EOLhyphen"/>bigh-Caſtle for the <hi>KING.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E finde the Kings party ſtill very active in theſe parts, thoſe in <hi>An<g ref="char:EOLhyphen"/>gleſey</hi> that revolted, will not accept of the indempnity, but reſolve to keep the Iſland for the King.</p>
+            <p>Sir John <hi>Owen</hi> is acting in <hi>Denbigh</hi> Caſtle, where with his confederates the Caſtle was very neere being ſurprized.</p>
+            <p>On Munday night laſt, the Captain of the Guard for <hi>Dehbigh</hi> Caſtle being gone to bed, they began to act their deſigne.</p>
+            <p>And there was engaged in this buſineſſe for ſurprize of <hi>Denbigh</hi> Caſtle (where Sir John
+<pb n="2" facs="tcp:161956:3"/>
+               <hi>Owen</hi> is priſoner) a Corporall and a Sentinell belonging to the Caſtle, of the Parliaments Souldiers, who had (it ſeems) been wrought upon by thoſe who carryed on the deſign, to whom large promiſes were made.</p>
+            <p>Theſe men we have diſcovered, beſides ſome others whom we cannot yet finde out, to have been corrupted by Sarjeant Major <hi>Dolton,</hi> Captain <hi>Cutler,</hi> Cap. <hi>Parrey,</hi> Captain <hi>Charles Chambers,</hi> and ſome others, who were the chief actors in this plot.</p>
+            <p>There was a party of the Cavaliers that came that night with ſcaling-ladders, who came privately to the walls, without giving any Alarm at all, the Corporall and the two Sentinels of the Guard being privy to their deſigne, and confederacy.</p>
+            <p>And about ſome 60 of the Cavaliers ahd ſcaled the walls, and were got over without any oppoſition at all, and were within the walls at leaſt an houre before any Alarum was given, and it was an hundred to one, that we had not been all ſurprized and ruin<g ref="char:EOLhyphen"/>ed, but we were miraculouſly delivered.</p>
+            <p>The aforeſaid threeſcore Cavaliers, that
+<pb n="3" facs="tcp:161956:3"/>
+were got over, were ſo neer entrance into the inner Wards of the Caſtle, that they had but onely one Horſe-lock to break, which the Corporall was ready to have aſſiſted them in, to open one of the Sally-ports.</p>
+            <p>It ſo pleaſed God that the Captain of the Guard could not ſleep in his bed, but was much troubled, though he knew not for what, and at laſt he reſolved to riſe &amp; walk the rounds with his Souldiers, for which purpoſe he did get up accordingly.</p>
+            <p>When he had drawn out ſome Souldiers to walk with him about the rounds, he went with them, un<g ref="char:EOLhyphen"/>till at laſt he eſpied a party got over the wall, and ſca<g ref="char:EOLhyphen"/>ling ladders upon the walls, whereupon an Alarum was given to the Caſtle; and the Town alſo, by this means took an Alarum. But they all yeelded them<g ref="char:EOLhyphen"/>ſelves priſoners at mercy, only ſome few that had got back again over the wall. And upon ſearch of the buſineſſe, the Corporall was diſcovered to be going with them to help them to open the gate.</p>
+            <p>I hope this will be a ſufficient warning to them all to look well about them, both in that Caſtle, and alſo in other parts about us.</p>
+            <closer>
+               <dateline>Cheſter City <date>this 8 of July, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from the Leagure before <hi>Colcheſter,</hi> of a notable Biuſh given to the Cavaliers.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Friday laſt we had ſome ſolemnity for the funeral of Lieutenant Colonell
+<pb n="4" facs="tcp:161956:4"/>
+Sanbrooke, whoſe death is much lamented, ſome vollies were ſhot off at his ſolemni<g ref="char:EOLhyphen"/>ty.</p>
+            <p>The Lord Goring hereupon made Procla<g ref="char:EOLhyphen"/>mation to the Officers and Souldiers in the town, that now they ſhould ſtand to their Armes, for reliefe was come from London to them, And that they might be aſſured of the truth of it, this volly was ſhot off at the raiſing of the ſeige, and that if they would be further ſatisfied herein, they might go up to the top of the Steeples, and perceive ſo much as would give them ſatisfaction here<g ref="char:EOLhyphen"/>in.</p>
+            <p>It was alſo declared that the City of Lon<g ref="char:EOLhyphen"/>don appeared for them, and had ſent them a Regiament of Horſe, which were coming in the Reare of theſe, then already there, That the Parliament was broken up, and many Parliament-men and committee-men cut in peeces and deſtroyed, Alſo that all the chiefe Lords of the Kingdome was in the head of an Army neere London, and Prince Charles comming over from France to joy a with them.</p>
+            <p>
+               <pb n="5" facs="tcp:161956:4"/>
+Hereupon divers both Souldiers and In<g ref="char:EOLhyphen"/>habitants went up to the toppe of ſeverall Churches, and Steeples, and high houſes to ſee if they could diſcerne reliefe to be come, and the Seige to be raiſed as it was declared.</p>
+            <p>They got with them a ſmall braſſe gun to the top of St. Maries Church, wherewith they ſaid they would give Fairfax a farewell, But cheifly to let thoſe whom they ſuppoſed were come to relieve them know, that they underſtood that they were come, and ſo ſa<g ref="char:EOLhyphen"/>lute them.</p>
+            <p>There came ſome out of Colcheſter who advertiſed what was done within,</p>
+            <p>Hereupon the Lord Generalls Cannons played againſt the Churches, and battered down ſome chimnies neer St Maries Church and did ſome other ſmall harme.</p>
+            <p>But this did ſo affright the people, that they came downe the Steeples and Churches curſing the Lord Goring The very boyes earing at it.</p>
+            <p>Since which to be revenged of the Army, The great Gunner in Colcheſter, reported to be the beſt in England, had commands
+<pb n="6" facs="tcp:161956:5"/>
+to play upon the Army, which he did.</p>
+            <p>And as he was by the Cannon a bullet came from the Army and hit him in the belly, and flew him.</p>
+            <p>They have ſome 20 peece of Ordnance in Colcheſter, proviſions are very ſcarce, their horſes eate Malt, They are conſtrained to green meale already in the towne.</p>
+            <p>They uſe Sir William Maſſum and the Committee worſe and worſe, keep them be<g ref="char:EOLhyphen"/>fore our Guns, bullets have come into their Chamber already, ſo they ſet blindes, Their diet is extreame courſe, and allowed onely three or foure three penny loaves a weeke a<g ref="char:EOLhyphen"/>mongſt them all. It is not to be expreſt how ill they are uſed.</p>
+            <p>We take priſoners daily, and they are much devided within, ſome horſe are ready to diſ<g ref="char:EOLhyphen"/>ſert them.</p>
+            <closer>
+               <dateline>Colchester Leagure</dateline> 
+               <date>9 July 1648.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
